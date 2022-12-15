@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "ad25dbd7c5badb18",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed19edacba57f1fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "529701648230925c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa4158351b35ec87",
+    "type": "split",
+    "children": [
+      {
+        "id": "af84905124fbebbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3561050c2730c49b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e276f11b749bcf4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a114bc0291cc9fa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4126a1f3d6cd1981",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fa4443eee3e3ab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e71a2c195599df18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e2505ed519f0645",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e1525b62f7e8fae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ffd508a48c4f702b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "529701648230925c",
+  "lastOpenFiles": []
+}
