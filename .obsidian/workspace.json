@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc01a685106ab5b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi e TPS/Sistemi-TPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
+                "file": "Sistemi e TPS/Sistemi-TPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
+                "file": "Sistemi e TPS/Sistemi-TPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +138,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md"
+                "file": "Sistemi e TPS/Sistemi-TPS.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "529701648230925c",
-  "lastOpenFiles": []
+  "active": "ffd508a48c4f702b",
+  "lastOpenFiles": [
+    "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
+    "Sistemi e TPS/Sistemi-TPS.md"
+  ]
 }
