@@ -13,7 +13,7 @@ I livelli del modello OSI sono 7:
 - 5 e 6 - Livelli di sessione e presentazione
 - 7 - Livello di Applicazione
 
-![[OSI_Model_v1.svg.png]]
+![Immagine](OSI_Model_v1.svg.png "Modello ISO-OSI")
 
 Ovviamente ognuno di questi livelli ha uno suo scopo:
 
@@ -62,6 +62,9 @@ I protocolli più usati, o comunque che hanno una maggiore rilevanza, sono:
 	- l'**Internet Protocol**, protocollo su cui sostanzialmente è basato internet.
 	  Ad oggi ne esistono di due versioni, l'*IPv4* e l'*IPv6*, la cui differenza è la grandezza e la quantità di indirizzi disponibili.
 
+#### SSH e Tunneling SSH
+Visto che stiamo parlando di protocolli, direi di includere un altro importante protocollo, ovvero il Secure SHell
+
 #### E-Mail
 Inoltre, esistono anche alcuni protocolli necessari a far funzionare le applicazioni per la gestione di Email:
 - In Entrata, ovvero le Email in arrivo, abbiamo i protocolli **POP/IMAP**
@@ -79,9 +82,6 @@ Strano da dire, ma se viene inviato un comando, -ncat \[link o ip\] \[porta\], s
 - 3XX = Ri-diretto
 - 4XX = Errore dal Client
 - 5XX = Errore dal Server
-
-#### SSH e Tunneling SSH
-
 
 ### Teoria dei codici
 #### Entropia di un'informazione
@@ -182,5 +182,5 @@ L'algortimo funziona così:
 >- E sappiamo che Ka = Kb(che potrei dimostrare).
 >Dunque Ka = Kb => K, ovvero la chiave che verrà utilizzata per la cifratura e decifratura dei messaggi.
 
-![[Crittografia_asimmetrica_schema.png]]
+![Crittografia_asimmetrica_schema](Crittografia_asimmetrica_schema.png "Esempio di crittografia asimmetrica")
 
