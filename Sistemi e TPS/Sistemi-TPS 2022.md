@@ -3,6 +3,7 @@
 ### Modello ISO-OSI
 #### Cos'è il modello ISO-OSI
 Per modello ISO-OSI si intende il modello che e' stato approvato dall'**International Standards Organization**, ed e' utilizzato come primo passo per l'assegnazione dei protocolli nei vari livelli.
+
 Questo modello prende il nome di OSI, ovvero **Open System Interconnection**.
 
 I livelli del modello OSI sono 7:
@@ -14,6 +15,7 @@ I livelli del modello OSI sono 7:
 - 7 - Livello di Applicazione
 
 ![Immagine](OSI_Model_v1.svg.png "Modello ISO-OSI")
+Bella immagine eh?
 
 Ovviamente ognuno di questi livelli ha uno suo scopo:
 
@@ -197,3 +199,4 @@ L'algortimo funziona così:
 
 ![Crittografia_asimmetrica_schema](Crittografia_asimmetrica_schema.png "Esempio di crittografia asimmetrica")
 
+Detto questo, il continuo è su [[Sistemi-TPS 14-12-2022]]

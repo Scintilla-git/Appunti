@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ed19edacba57f1fc",
+        "id": "19fdcbd194f2ec61",
         "type": "tabs",
         "children": [
           {
-            "id": "529701648230925c",
+            "id": "e6b35742bd4a82a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 2022.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 2022.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -136,9 +128,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "529701648230925c",
+  "active": "e6b35742bd4a82a3",
   "lastOpenFiles": [
+    "Sistemi e TPS/Sistemi-TPS 2022.md",
     "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
-    "Sistemi e TPS/Sistemi-TPS 2022.md"
+    "Sistemi-TPS.md"
   ]
 }
