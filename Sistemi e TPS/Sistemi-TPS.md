@@ -48,5 +48,12 @@ Ovviamente ognuno di questi livelli ha uno suo scopo:
 >Questo livello si occupa delle funzioni di interfaccia tra utente e macchina
 - Sono gestiti tutti i protocolli di servizio, come il DHCP e il DNS, di accesso a terminali remoti, come l'SSH, protocolli di posta elettronica, come l'SMTP, il POP e l'IMAP, e di trasferimento file, come l'FTP e l'HTTP.
 
-### Sicurezza delle informazioni
-Domani. :)
+### Protocolli
+Cos'è un protocollo?
+>Un protocollo, in informatica, equivale a un insieme di regole che definiscono la modalità di comunicazione tra due o più entità.
+
+I protocolli più usati, o comunque che hanno una maggiore rilevanza, sono:
+- HTTP/S
+	- Ovvero l'**Hypertext Trasfer Protcol / Secure**, protocollo utilizzato per di più nei siti web
+- TCP
+	- Ovvero il **Transmission Control Protocol**
