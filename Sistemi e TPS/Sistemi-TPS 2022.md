@@ -63,7 +63,20 @@ I protocolli più usati, o comunque che hanno una maggiore rilevanza, sono:
 	  Ad oggi ne esistono di due versioni, l'*IPv4* e l'*IPv6*, la cui differenza è la grandezza e la quantità di indirizzi disponibili.
 
 #### SSH e Tunneling SSH
-Visto che stiamo parlando di protocolli, direi di includere un altro importante protocollo, ovvero il Secure SHell
+Visto che stiamo parlando di protocolli, direi di includere un altro importante protocollo, ovvero il Secure SHell.
+>Il Secure Shell è un protocollo che permette di creare una sessione remota e protetta da cifratura tramite riga di comando con un altro host, che potrebbe essere e non nello stesso network.
+
+Ora che abbiamo dato una definizione su che cos'è l'SSH, definiamo anche il Tunneling SSH
+>Per Tunneling SSH si intende lo sfruttamento del protocollo SSH per entrare nelle porte più nascoste di un host, con l'obiettivo di renderle pubbliche.
+>Il dispositivo che fa esporre una porta viene chiamato **Jump Server**
+
+Esistono due tipi di Tunneling:
+- Tunnel Locale
+	- Ovvero collegare il client a un server tramite SSH, per poi esporre le porte del server e permettere al client di raggiungere destinazioni che solo il server può raggiungere
+		- Se si chiude la console del client, la connessione cade!
+		- Il server vede le richieste effettuate dal client(o tramite) come se fosse il server stesso in locale a farle
+- Tunnel Remoto
+	- L'esatto contrario del tunnel locale, ovvero utilizzare un server per accedere a un client.
 
 #### E-Mail
 Inoltre, esistono anche alcuni protocolli necessari a far funzionare le applicazioni per la gestione di Email:
@@ -105,7 +118,7 @@ Bisogna fare anche alcune specificazioni:
 
 E basta :P
 
-Date queste informazioni, si può definire...
+Date queste informazioni, possiamo comprendere...
 
 #### La codifica Huffman
 La codifica Huffman possiamo definirla come un algoritmo che punta alla compressione dei dati.
