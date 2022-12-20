@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Informatica_20-12-2022.md",
+                "file": "Informatica/Informatica 20-12-2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "right": {
     "id": "4126a1f3d6cd1981",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/Informatica_20-12-2022.md",
+                "file": "Informatica/Informatica 20-12-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/Informatica_20-12-2022.md",
+                "file": "Informatica/Informatica 20-12-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/Informatica_20-12-2022.md"
+                "file": "Informatica/Informatica 20-12-2022.md"
               }
             }
           }
@@ -134,15 +134,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 312.5
   },
   "active": "284ff2a3b408959d",
   "lastOpenFiles": [
+    "Informatica/Informatica 20-12-2022.md",
+    "Italiano-Storia/Storia 20-12-2022.md",
+    "Italiano-Storia/Storia 19-12-2022.md",
+    "Sistemi e TPS/Crittografia_asimmetrica_schema.png",
     "Sistemi e TPS/Sistemi-TPS  2022.md",
-    "Informatica/Informatica_20-12-2022.md",
-    "Italiano-Storia/Storia_20-12-2022.md",
-    "Italiano-Storia/Storia_19-12-2022.md",
-    "Sistemi e TPS/Sistemi-TPS_14-12-2022.md",
+    "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
+    "2022-12-20.md",
     "Sistemi-TPS.md"
   ]
 }
