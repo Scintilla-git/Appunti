@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6b35742bd4a82a3",
+            "id": "3a1ca6cae83b3ede",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi e TPS/Sistemi-TPS 2022.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sistemi e TPS/Sistemi-TPS 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sistemi e TPS/Sistemi-TPS 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sistemi e TPS/Sistemi-TPS 2022.md"
+              }
             }
           }
         ],
@@ -128,8 +136,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e6b35742bd4a82a3",
+  "active": "3a1ca6cae83b3ede",
   "lastOpenFiles": [
+    "Italiano-Storia/Storia 19-12-2022.md",
     "Sistemi e TPS/Sistemi-TPS 2022.md",
     "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
     "Sistemi-TPS.md"

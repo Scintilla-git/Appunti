@@ -24,7 +24,7 @@ Ovviamente ognuno di questi livelli ha uno suo scopo:
 >
 >Inoltre, questo livello decide diverse altre cose, come il numero di bit per un collegamento, la durata in microsecondi che identifica un bit, la modulazione e la codifica utilizzata, e altro.
 >
->Alcuni apparecchi che lavorano a questo livello sono i router e gli hub.
+>Alcuni apparecchi che lavorano a questo livello sono i modem e gli hub.
 - Servizi come il Bluetooth e' gestito in questo livello
 
 #### 2 - Livello DataLink
@@ -66,7 +66,7 @@ I protocolli più usati, o comunque che hanno una maggiore rilevanza, sono:
 
 #### SSH e Tunneling SSH
 Visto che stiamo parlando di protocolli, direi di includere un altro importante protocollo, ovvero il Secure SHell.
->Il Secure Shell è un protocollo che permette di creare una sessione remota e protetta da cifratura tramite riga di comando con un altro host, che potrebbe essere e non nello stesso network.
+>Il Secure Shell è un protocollo che permette di **creare una sessione remota e protetta da cifratura** tramite riga di comando con un altro host, che potrebbe essere e non nello stesso network.
 
 Ora che abbiamo dato una definizione su che cos'è l'SSH, definiamo anche il Tunneling SSH
 >Per Tunneling SSH si intende lo sfruttamento del protocollo SSH per entrare nelle porte più nascoste di un host, con l'obiettivo di renderle pubbliche.
@@ -79,6 +79,7 @@ Esistono due tipi di Tunneling:
 		- Il server vede le richieste effettuate dal client(o tramite) come se fosse il server stesso in locale a farle
 - Tunnel Remoto
 	- L'esatto contrario del tunnel locale, ovvero utilizzare un server per accedere a un client.
+		- Ciò permette a più client di connettersi al server per poi collegarsi in modo remoto al client esposto
 
 #### E-Mail
 Inoltre, esistono anche alcuni protocolli necessari a far funzionare le applicazioni per la gestione di Email:
@@ -109,7 +110,7 @@ A questa definizione, possiamo dargli una formula, che punta a ottenere l'inform
 
 Per fare un esempio, se ci sono 16 simboli, e un simbolo compare 8 volte, la probabilità che esso compaia è di 8/16, quindi 1/2, log(2) = 1
 
-Dopo questa promessa, possiamo definire l'*Entropia di un'informazione*.
+Dopo questa premessa, possiamo definire l'*Entropia di un'informazione*.
 L'Entropia(Hs) è definita così:
 >Hs = Ps\*Is = Ps \* log(1/Ps)
 >Detto questo bisogna tenere a mente che se Ps = 0, Hs è indeterminato(0 \* inf), ma tende cmq a 0
@@ -199,4 +200,5 @@ L'algortimo funziona così:
 
 ![Crittografia_asimmetrica_schema](Crittografia_asimmetrica_schema.png "Esempio di crittografia asimmetrica")
 
+### Algebra Astratta
 Detto questo, il continuo è su [[Sistemi-TPS 14-12-2022]]
