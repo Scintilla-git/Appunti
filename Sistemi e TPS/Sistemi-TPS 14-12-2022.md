@@ -63,6 +63,8 @@ Questi sono più scontati.
 
 Quelli meno scontati sono {e, cd, cs} e {e}(che dal punto di vista matematico è un po' una buffonata).
 
+Continuo in [Sistemi-TPS 21-12-2022](Sistemi-TPS%2021-12-2022.md)
+
 ------------------------
 ## Firewall - Sistemi
 - **Il firewall è fondamentalmente un filtro**.
