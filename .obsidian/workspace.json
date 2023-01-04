@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 21-12-2022.md",
+                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 21-12-2022.md",
+                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 21-12-2022.md",
+                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 21-12-2022.md"
+                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md"
               }
             }
           }
@@ -144,28 +144,17 @@
     "direction": "horizontal",
     "width": 312.5
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
-    }
-  },
   "active": "284ff2a3b408959d",
   "lastOpenFiles": [
     "Sistemi e TPS/Sistemi-TPS 21-12-2022.md",
-    "Sistemi e TPS/Files/RSA.pdf",
-    "().md",
-    "Sistemi e TPS/Sistemi-TPS  2022.md",
     "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
     "Informatica/Informatica 20-12-2022.md",
+    "Sistemi e TPS/Sistemi-TPS  2022.md",
+    "Sistemi e TPS/Pictures/Crittografia_asimmetrica_schema.png",
+    "Sistemi e TPS/Files/RSA.pdf",
+    "().md",
     "Italiano-Storia/Storia 20-12-2022.md",
     "Italiano-Storia/Storia 19-12-2022.md",
-    "Sistemi e TPS/Pictures/Crittografia_asimmetrica_schema.png",
     "2022-12-20.md"
   ]
 }
