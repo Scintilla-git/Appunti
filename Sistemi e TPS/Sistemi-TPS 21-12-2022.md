@@ -1,5 +1,6 @@
-## Algebra Astratta - Gruppi con numero finito di elementi
-### Gruppi ciclici
+## TPS
+### Algebra Astratta - Gruppi con numero finito di elementi
+#### Gruppi ciclici
 Definiamo un gruppo: (G, +), e G è finito.
 
 - La domanda è:
@@ -28,6 +29,14 @@ Definiamo un gruppo: (G, +), e G è finito.
 					- questo perchè, nonostante n e m siano diversi, alla fine aggiungendo g da una parte o dall'altra, prima o poi diventeranno uguali
 				- g^x-1 = 0(neutro)
 
+#### Transitività
+(H è un sottogruppo di G)
+- a = b %H e b = c %H, quindi c = a %H
+	- a + b(neg) = h1
+	- b + c(neg) = h2
+		- H fanno parte h1 + h2 = a + b(neg) + b + c(neg) = a + c(neg) appartengono ad H
+
+Quindi {x appartiene a G : a + x(neg) appartiene ad H} <= *Classe*
 
 - - - - -- - - -
 Tutti gli argomenti sono segnati qui -> [RSA e Strutture Algebriche](RSA.pdf "yeet") 

@@ -1,12 +1,14 @@
 ## Strutture Algebriche - TPS
 
-### Struttura Algebrica Semigruppo
+### I Gruppi
+
+...
+
+### Il Semigruppo
 - è una struttura composta da una struttura binaria chiusa e associativa
 - Prende il nome di **Monoide**
 
-Un gruppo ha più elementi neutri(?)
-
-Un elemento neutro è...
+...
 
 ### Sottogruppo
 Prendiamo un gruppo G e diciamo che (G, \*).
@@ -110,4 +112,15 @@ Su Linux: comando ~\# iptables
 >\# iptables -t filter -A INPUT -s 8.8.8.8 -j REJECT
 >\# ping 8.8.8.8
 >il ping funziona, a metà. Infatti i pacchetti vengono inviati, ma il firewall blocca tutti i pacchetti in entrata da quel ping. Quindi funziona ma non funziona.
+
+Per visualizzare la lista delle regole:
+>iptables -L --line-number
+
+Per cambiare la policy della catena:
+>iptables -P OUTPUT(nome della catena) DROP(cambio policy)
+>
+>Facciamo un test a questo punto:
+>iptables -A INPUT -d 8.8.8.8 -j ACCEPT
+>
+>Facendo un ping, il cmd da errore se fai una richiesta al dns, e non trasmette nulla nel caso inserissi un ip. Questo perchè tutti i pacchetti in uscita vengono **droppati**
 

@@ -1,30 +1,22 @@
 {
   "main": {
-    "id": "ad25dbd7c5badb18",
+    "id": "2763e440a623f4e5",
     "type": "split",
     "children": [
       {
-        "id": "cecdce5b58c85cf4",
+        "id": "89634d6628834c7f",
         "type": "tabs",
         "children": [
           {
-            "id": "284ff2a3b408959d",
+            "id": "616f3662f17ee919",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 21-12-2022.md",
-                "mode": "preview",
+                "file": "Campagne/A Destiny RP Adventure/A Destiny-inspired Campaign Kickin'.md",
+                "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "9572a2655b80ba1f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -33,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aa4158351b35ec87",
+    "id": "bc96717018a1119b",
     "type": "split",
     "children": [
       {
-        "id": "af84905124fbebbb",
+        "id": "e26f41a8f54b2e9f",
         "type": "tabs",
         "children": [
           {
-            "id": "3561050c2730c49b",
+            "id": "3946985947bf34c0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +43,7 @@
             }
           },
           {
-            "id": "3e276f11b749bcf4",
+            "id": "5a8f1ae9d316f578",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +58,7 @@
             }
           },
           {
-            "id": "2a114bc0291cc9fa",
+            "id": "f3e1bc1863ceef68",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -77,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 317.5
   },
   "right": {
-    "id": "4126a1f3d6cd1981",
+    "id": "5a79581a89a27513",
     "type": "split",
     "children": [
       {
-        "id": "8fa4443eee3e3ab7",
+        "id": "3feff997fd72891c",
         "type": "tabs",
         "children": [
           {
-            "id": "e71a2c195599df18",
+            "id": "c3c0b2402b6c8794",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 21-12-2022.md",
+                "file": "Campagne/A Destiny RP Adventure/A Destiny-inspired Campaign Kickin'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +97,19 @@
             }
           },
           {
-            "id": "2e2505ed519f0645",
+            "id": "c8467a26ea8459df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 21-12-2022.md",
+                "file": "Campagne/A Destiny RP Adventure/A Destiny-inspired Campaign Kickin'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5e1525b62f7e8fae",
+            "id": "d09794ebaf572057",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,12 +120,12 @@
             }
           },
           {
-            "id": "ffd508a48c4f702b",
+            "id": "181fb2bb8c6915c4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi e TPS/Sistemi-TPS 21-12-2022.md"
+                "file": "Campagne/A Destiny RP Adventure/A Destiny-inspired Campaign Kickin'.md"
               }
             }
           }
@@ -142,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,21 +143,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "284ff2a3b408959d",
+  "active": "616f3662f17ee919",
   "lastOpenFiles": [
-    "Sistemi e TPS/Sistemi-TPS 21-12-2022.md",
-    "Sistemi e TPS/Files/RSA.pdf",
-    "().md",
-    "Sistemi e TPS/Sistemi-TPS  2022.md",
-    "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
-    "Informatica/Informatica 20-12-2022.md",
-    "Italiano-Storia/Storia 20-12-2022.md",
-    "Italiano-Storia/Storia 19-12-2022.md",
-    "Sistemi e TPS/Pictures/Crittografia_asimmetrica_schema.png",
-    "2022-12-20.md"
+    "Campagne/A Destiny RP Adventure/Le Classi/Lo Stregone.md",
+    "Campagne/A Destiny RP Adventure/Le Classi/Il Cacciatore.md",
+    "Campagne/A Destiny RP Adventure/Le Classi/La Scimmia.md",
+    "Campagne/A Destiny RP Adventure/A Destiny-inspired Campaign Kickin'.md",
+    "Campagne/La Tana del Ratto/La tana del ratto.md",
+    "Campagne/La Tana del Ratto/Achuarakurix Nadarr.md",
+    "Personaggi/Adelit Rozen.md",
+    "Personaggi/Gnadolf Mussolnano.md",
+    "Campagne/La Tana del Ratto/Luigi Braccioforte.md",
+    "Campagne/La Tana del Ratto/Cor.png"
   ]
 }

@@ -1,44 +1,37 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Sistemi e TPS\"",
-      "color": {
-        "a": 1,
-        "rgb": 13193952
-      }
-    },
-    {
-      "query": "path:Informatica",
+      "query": "tag:Storie",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:Italiano-Storia",
+      "query": "tag:Personaggi",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14701138
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.15401041666667,
-  "lineSizeMultiplier": 2.15442708333333,
-  "collapse-forces": true,
-  "centerStrength": 0.6484375,
-  "repelStrength": 12.7174479166667,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 211,
+  "linkDistance": 250,
   "scale": 1,
-  "close": false
+  "close": true
 }

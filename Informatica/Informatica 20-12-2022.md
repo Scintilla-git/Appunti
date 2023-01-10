@@ -1,4 +1,4 @@
- ## Introduzione alla progettazione logica dell'E-R
+## Introduzione alla progettazione logica dell'E-R
 
 ### Ristrutturazione del modello E-R
 - **Partecipazione delle entità alle relazioni**
@@ -31,6 +31,7 @@
 				- Impiegato(attributi)
 				- Progetto(attributi)
 				- Impegno(*ex-relazione*)(attributi di collegamento tra le due entità)
+					- Gli attributi di collegamento sono le pk e quelli della ex-relazione
 - **Eliminazione delle ternarie**
 	- Relazioni di questo tipo vengono eliminate e viene creata una seconda relazione che collega le tre entità
 - **Relazioni ridondanti**
