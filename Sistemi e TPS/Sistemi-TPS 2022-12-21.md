@@ -36,7 +36,7 @@ Definiamo un gruppo: (G, +), e G è finito.
 	- b + c(neg) = h2
 		- H fanno parte h1 + h2 = a + b(neg) + b + c(neg) = a + c(neg) appartengono ad H
 
-Quindi {x appartiene a G : a + x(neg) appartiene ad H} <= *Classe*
-
+Quindi {x ∈ G : a + x(neg) ∈ H} <= *Classe*
 - - - - -- - - -
 Tutti gli argomenti sono segnati qui -> [RSA e Strutture Algebriche](RSA.pdf "yeet") 
+Continuo in [Sistemi-TPS 2023-1-11](Sistemi-TPS%202023-1-11.md)

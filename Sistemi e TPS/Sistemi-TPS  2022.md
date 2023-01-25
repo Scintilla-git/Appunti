@@ -201,4 +201,4 @@ L'algortimo funziona così:
 ![Crittografia_asimmetrica_schema](Crittografia_asimmetrica_schema.png "Esempio di crittografia asimmetrica")
 
 ### Algebra Astratta
-Detto questo, il continuo è qui: [Appunti Sistemi: Algebra Astratta](Sistemi-TPS%2014-12-2022.md "yeet")
+Detto questo, il continuo è qui: [Appunti Sistemi: Algebra Astratta](Sistemi-TPS%202022-12-14.md "yeet")

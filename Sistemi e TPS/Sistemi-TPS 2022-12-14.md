@@ -1,14 +1,27 @@
 ## Strutture Algebriche - TPS
 
-### I Gruppi
+Definiamo un insieme G, finito o no non è importante.
+Da qui definiamo un'operazione binaria, che dati due elementi di G ne restituisca un terzo sempre appartenente a G.
+Chiamiamo questa operazione "+", che non bisogna confondere con il segno normale di somma.
+>Dunque, ∀a, b ∈ G, ∃c ∈ G : c = a + b
 
-...
+Nel linguaggio delle funzioni(o delle applicazioni), bisogna trascrivere questa operazione così:
+>c = +(a,b)
+
+C'è da dire che il valore c è unico in G, ovvero che facendo quella somma otteniamo sempre quel risultato c.
+Questa propietà di somma viene chiamata di *chiusura*.
+- - - - 
+Un'altra importante propietà è l'associatività.
+>∀a, b, c ∈ G : +( +(a, b) , c) = +(a, +(b, c) )
+
+Ogni insieme che gode di questa operazione, detta *chiusura e associatività*, viene chiamato **Semigruppo**
 
 ### Il Semigruppo
-- è una struttura composta da una struttura binaria chiusa e associativa
-- Prende il nome di **Monoide**
-
-...
+Dunque, riassumendo:
+1. Un insieme che gode di un'operazione, detta "+", chiusa e associativa, viene definito *semigruppo*;
+2. Se (G,+) è un semigruppo e ha un **elemento neutro**, possiamo dire che (G,+) ha la struttura di un *monoide*;
+3. Se (G,+) è un monoide e ogni elemento di G ammette un inverso, allora (G,+) ha la struttura di un **gruppo**;
+4. Se (G,+) è un gruppo e l'operazione + è commutativa, allora possiamo considerarlo un *gruppo commutativo*.
 
 ### Sottogruppo
 Prendiamo un gruppo G e diciamo che (G, \*).
@@ -65,7 +78,7 @@ Questi sono più scontati.
 
 Quelli meno scontati sono {e, cd, cs} e {e}(che dal punto di vista matematico è un po' una buffonata).
 
-Continuo in [Sistemi-TPS 21-12-2022](Sistemi-TPS%2021-12-2022.md)
+Continuo in [Sistemi-TPS 2022-12-21](Sistemi-TPS%202022-12-21.md)
 
 ------------------------
 ## Firewall - Sistemi

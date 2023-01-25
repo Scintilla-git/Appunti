@@ -1,44 +1,52 @@
 {
   "main": {
-    "id": "2763e440a623f4e5",
+    "id": "82e8cdfa7a79fc93",
     "type": "split",
     "children": [
       {
-        "id": "89634d6628834c7f",
+        "id": "ac78f892df8facfa",
         "type": "tabs",
         "children": [
           {
-            "id": "616f3662f17ee919",
+            "id": "0496f995fb8bfe10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Campagne/A Destiny RP Adventure/A Destiny-inspired Campaign Kickin'.md",
-                "mode": "source",
-=======
-                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
+                "file": "Sistemi e TPS/Sistemi-TPS 2023-1-18.md",
                 "mode": "preview",
->>>>>>> b81e93baa394cc0fd08317c3216f4347287eaa59
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdb6a3fa970ead92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi e TPS/Sistemi-TPS 2023-1-25.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bc96717018a1119b",
+    "id": "c4d621952e8c47a1",
     "type": "split",
     "children": [
       {
-        "id": "e26f41a8f54b2e9f",
+        "id": "ed41396404ded539",
         "type": "tabs",
         "children": [
           {
-            "id": "3946985947bf34c0",
+            "id": "1fd4ccc4e6e9357a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +56,7 @@
             }
           },
           {
-            "id": "5a8f1ae9d316f578",
+            "id": "afd90fedeb610d8f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +71,7 @@
             }
           },
           {
-            "id": "f3e1bc1863ceef68",
+            "id": "fadcb9028f285497",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -74,27 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 300
   },
   "right": {
-    "id": "5a79581a89a27513",
+    "id": "47f5725e2236cdf2",
     "type": "split",
     "children": [
       {
-        "id": "3feff997fd72891c",
+        "id": "9f5bc0b5c82feeae",
         "type": "tabs",
         "children": [
           {
-            "id": "c3c0b2402b6c8794",
+            "id": "b594bf11f1c186b2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Campagne/A Destiny RP Adventure/A Destiny-inspired Campaign Kickin'.md",
-=======
-                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
->>>>>>> b81e93baa394cc0fd08317c3216f4347287eaa59
+                "file": "Sistemi e TPS/Sistemi-TPS 2023-1-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,23 +110,19 @@
             }
           },
           {
-            "id": "c8467a26ea8459df",
+            "id": "bf88ae712772b2c4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Campagne/A Destiny RP Adventure/A Destiny-inspired Campaign Kickin'.md",
-=======
-                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
->>>>>>> b81e93baa394cc0fd08317c3216f4347287eaa59
+                "file": "Sistemi e TPS/Sistemi-TPS 2023-1-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d09794ebaf572057",
+            "id": "4fcec6f6ee32ac20",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,16 +133,12 @@
             }
           },
           {
-            "id": "181fb2bb8c6915c4",
+            "id": "e6e0a1b496994887",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Campagne/A Destiny RP Adventure/A Destiny-inspired Campaign Kickin'.md"
-=======
-                "file": "Sistemi e TPS/Sistemi-TPS 14-12-2022.md"
->>>>>>> b81e93baa394cc0fd08317c3216f4347287eaa59
+                "file": "Sistemi e TPS/Sistemi-TPS 2023-1-25.md"
               }
             }
           }
@@ -151,9 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 300
   },
-<<<<<<< HEAD
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
@@ -164,31 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "616f3662f17ee919",
+  "active": "fdb6a3fa970ead92",
   "lastOpenFiles": [
-    "Campagne/A Destiny RP Adventure/Le Classi/Lo Stregone.md",
-    "Campagne/A Destiny RP Adventure/Le Classi/Il Cacciatore.md",
-    "Campagne/A Destiny RP Adventure/Le Classi/La Scimmia.md",
-    "Campagne/A Destiny RP Adventure/A Destiny-inspired Campaign Kickin'.md",
-    "Campagne/La Tana del Ratto/La tana del ratto.md",
-    "Campagne/La Tana del Ratto/Achuarakurix Nadarr.md",
-    "Personaggi/Adelit Rozen.md",
-    "Personaggi/Gnadolf Mussolnano.md",
-    "Campagne/La Tana del Ratto/Luigi Braccioforte.md",
-    "Campagne/La Tana del Ratto/Cor.png"
-=======
-  "active": "284ff2a3b408959d",
-  "lastOpenFiles": [
-    "Sistemi e TPS/Sistemi-TPS 21-12-2022.md",
-    "Sistemi e TPS/Sistemi-TPS 14-12-2022.md",
+    "Sistemi e TPS/Sistemi-TPS 2023-1-18.md",
+    "Sistemi e TPS/Sistemi-TPS 2023-1-25.md",
+    "Sistemi e TPS/Sistemi-TPS 2023-1-11.md",
+    "Sistemi e TPS/Sistemi-TPS 2022-12-21.md",
+    "Italiano-Storia/Storia 2022-12-20.md",
     "Informatica/Informatica 20-12-2022.md",
-    "Sistemi e TPS/Sistemi-TPS  2022.md",
-    "Sistemi e TPS/Pictures/Crittografia_asimmetrica_schema.png",
-    "Sistemi e TPS/Files/RSA.pdf",
-    "().md",
-    "Italiano-Storia/Storia 20-12-2022.md",
-    "Italiano-Storia/Storia 19-12-2022.md",
-    "2022-12-20.md"
->>>>>>> b81e93baa394cc0fd08317c3216f4347287eaa59
+    "Italiano-Storia/Storia 2023-1-17.md",
+    "Italiano-Storia/Storia 2022-12-19.md",
+    "Italiano-Storia/Storia 2023-1-10.md",
+    "Storia 2023-1-12.md"
   ]
 }
