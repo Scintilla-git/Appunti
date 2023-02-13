@@ -83,3 +83,24 @@ E a questo punto:
 > (cose)
 
 Ma questo opzione non è valida sempre(nonostante abbia una probabilità del 99,99999999% di capitare).
+
+Finale in [Sistemi-TPS 2023-2-1](Sistemi-TPS%202023-2-1.md).
+
+- - - -
+## Firewall pt.2
+### Protocolli e moduli
+>iptables -A INPUT -p tcp -j DROP
+
+Con questo comando ho appena detto al filtro di bloccare tutte le richieste del protocollo tpc.
+Quindi se provo a collegarmi a qualsiasi sito internet, i pacchetti vengono rifiutati e scartati, e il browser continua a caricare, senza successo.
+
+>iptables -A INPUT -p udp -j DROP
+
+Mentre con questo blocco tutte le volte che un URL sta cercando di ottenere il suo indirizzo ip.
+
+Volendo si può fare anche con il protocollo icmp.
+
+Passiamo ai moduli:
+>iptables -A INPUT -p tcp -m tcp --dport 22 -s [ip] -j DROP
+
+Questo comando differenzia da quelli precedente perchè blocca tutti gli ip che provano a collegarsi in tcp al tuo pc passando per la porta 22.

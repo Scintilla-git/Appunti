@@ -102,6 +102,8 @@ Iniziamo con le basi
 			- OUTPUT: questa catena è utilizzata sui pacchetti in uscita
 			- FORWARD: questa catena è utilizzata sui pacchetti che devono uscire
 			- POSTROUTING
+		- Qui vengono applicate le policy
+			- Se tutte le regole non sono soddisfatte, si applica la policy
 	- **Rules**(Regole)
 		- Che sono:
 			- ACCEPT: **No problema :)**
@@ -137,3 +139,4 @@ Per cambiare la policy della catena:
 >
 >Facendo un ping, il cmd da errore se fai una richiesta al dns, e non trasmette nulla nel caso inserissi un ip. Questo perchè tutti i pacchetti in uscita vengono **droppati**
 
+Continuo in [Sistemi-TPS 2023-1-25](Sistemi-TPS%202023-1-25.md).
